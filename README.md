@@ -8,9 +8,8 @@
 
 <p align="center">
 <a href="mailto:sarbajitnandey@gmail.com?subject=[GitHub]%20🔥%20First%20Connect&body=Hello%20Sarbajit%2C%0A%0AI%20came%20to%20you%20today%20after %20checking%20you%20Github%20profile%20for%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://twitter.com/@sarbajit
-/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
-<a href="https://linkedin.com/in/sarbajit_nandy"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://linkedin.com/in/sarbajit_nandy" alt="LinkedIn Badge"></a> 
+  <a href="https://x.com/Sarbajit_Nandy"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+<a href="https://www.linkedin.com/in/sarbajit-nandy"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://linkedin.com/in/sarbajit_nandy" alt="LinkedIn Badge"></a> 
 </p>
 
  <!-- About section -->
@@ -26,7 +25,7 @@
 
 - 💬 Ask me about: Spring Boot, NodeJS, ExpressJS, React, MongoDB, PostgresSQL, System Design, Building Career In Tech,
 
-- 📫 How to reach me: [@Sarbajit](https://twitter.com/Sarbajit_Nandy)
+- 📫 How to reach me: [@Sarbajit](https://x.com/Sarbajit_Nandy)
 
 - ⚡ Fun fact: I am a calisthenics practitioner and went upto intermediate level. 
 
@@ -37,9 +36,8 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/sarbajit_nandy"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://linkedin.com/in/sarbajit_nandy" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/@sarbajit
-/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+        <a href="https://www.linkedin.com/in/sarbajit-nandy"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://linkedin.com/in/sarbajit_nandy" alt="LinkedIn Badge"></a> 
+       <a href="https://x.com/Sarbajit_Nandy"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
    </p>
 
 <h2>Coding Profiles</h2>
